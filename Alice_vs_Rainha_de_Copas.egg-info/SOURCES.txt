@@ -1,0 +1,5 @@
+setup.py
+Alice_vs_Rainha_de_Copas.egg-info/PKG-INFO
+Alice_vs_Rainha_de_Copas.egg-info/SOURCES.txt
+Alice_vs_Rainha_de_Copas.egg-info/dependency_links.txt
+Alice_vs_Rainha_de_Copas.egg-info/top_level.txt
